@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá, meu nome é Thiago.👨🏻‍💻
 
-<p>🧔🏻‍♂️Ele/dele<br/>📫 Rio de Janeiro, Brasil.<br/>📚 Desenvolvedor web full stack em formação<br/>
+<p>🧔🏻‍♂️Ele/dele<br/>📫 Rio de Janeiro, Brasil.<br/>📚 Desenvolvedor web full stack<br/>
 
 <div>
 
